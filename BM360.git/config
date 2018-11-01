@@ -1,0 +1,7 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = true
+	logallrefupdates = true
+[http]
+	receivepack = true
